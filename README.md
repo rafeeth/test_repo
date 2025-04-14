@@ -1,6 +1,6 @@
 # chronos-public-repo
 
-## approved-versions
+## approved-versions-configuration-tool
 The following versions have been authorized for use.
 
 ConfigToolVer:[3.10,3.11]
